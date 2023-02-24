@@ -1,2 +1,2 @@
-# template-rubyonrails-webapi
-RESTful API with Laravel v10.
+# template-laravel-webapi
+RESTful API Example with Laravel v10.
